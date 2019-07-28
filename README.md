@@ -4,3 +4,6 @@ This is a complete (Basic to Advance) tutorial series on Unix-Shell commands whe
 Happy Learning!
 
 P.S. please ignore the typos
+
+
+ Licensed under the [MIT License](LICENSE).
