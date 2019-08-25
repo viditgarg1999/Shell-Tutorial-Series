@@ -1,3 +1,3 @@
-# Shell-Tutorial-Series
+# UNIX Commands
 
 Licensed under the [MIT License](LICENSE).
